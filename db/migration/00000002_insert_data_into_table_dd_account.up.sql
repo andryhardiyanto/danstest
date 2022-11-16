@@ -1,0 +1,3 @@
+INSERT INTO public.dd_account (ddacc_username, ddacc_email, ddacc_password, ddacc_role, created_at, updated_at) VALUES('test123', 'te1s@andry.com', 'test', 'user', '2022-11-16 23:50:14.923', '2022-11-16 23:50:14.923');
+INSERT INTO public.dd_account (ddacc_username, ddacc_email, ddacc_password, ddacc_role, created_at, updated_at) VALUES('andry', 'andr222y1@andry.com', 'andry', 'admin', '2022-11-16 23:50:14.923', '2022-11-16 23:50:14.923');
+INSERT INTO public.dd_account (ddacc_username, ddacc_email, ddacc_password, ddacc_role, created_at, updated_at) VALUES('admin', 'admin@admin.com', 'admin', 'admin', '2022-11-16 23:50:14.923', '2022-11-16 23:50:14.923');
